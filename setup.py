@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name='unifipy',
-    version='1.0.3',
+    version='1.0.4',
     packages=find_packages(),
     url='https://github.com/fronbasal/unifipy',
     license='MIT License',
