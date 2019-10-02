@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: unifipy
+Version: 1.0.0
+Summary: Unifi Python API
+Home-page: https://github.com/fronbasal/unifipy
+Author: Daniel Malik
+Author-email: mail@fronbasal.de
+License: MIT License
+Description: # Unifi Python Voucher API
+        
+        This API contains a Unifi API wrapper specifically for creating vouchers programmatically.
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
