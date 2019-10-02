@@ -1,9 +1,0 @@
-README.md
-setup.py
-unifipy/__init__.py
-unifipy/unifi.py
-unifipy.egg-info/PKG-INFO
-unifipy.egg-info/SOURCES.txt
-unifipy.egg-info/dependency_links.txt
-unifipy.egg-info/requires.txt
-unifipy.egg-info/top_level.txt
